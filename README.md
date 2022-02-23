@@ -1,2 +1,2 @@
 # no_taste
-hoodie
+this will be a simple library written in python
